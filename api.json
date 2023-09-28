@@ -1,0 +1,85 @@
+{
+  "hotels": [
+    {
+      "name": "The Plaza Hotel",
+      "city": "New York, USA",
+      "id": 12345,
+      "description": "One of the world's most iconic hotels",
+      "price": 500,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655757/hotels/hotel1_d4n0et.jpg",
+      "rating": "4.7"
+    },
+    {
+      "name": "The Ritz Hotel",
+      "city": "London, UK",
+      "id": 23456,
+      "description": "A symbol of high-society and luxury",
+      "price": 600,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655759/hotels/hotel2_yzqmba.jpg",
+      "rating": "4.8"
+    },
+    {
+      "name": "Le Meurice",
+      "city": "Paris, France",
+      "id": 34567,
+      "description": "Historic palace hotel in Paris",
+      "price": 450,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655761/hotels/hotel3_morlff.jpg",
+      "rating": "4.5"
+    },
+    {
+      "name": "The Orient Express",
+      "city": "Venice, Italy",
+      "id": 45678,
+      "description": "Luxurious hotel with magnificent views",
+      "price": 700,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655763/hotels/hotel4_dz2rm5.jpg",
+      "rating": "4.9"
+    },
+    {
+      "name": "The Fullerton Hotel",
+      "city": "Singapore",
+      "id": 56789,
+      "description": "Five-star luxury hotel",
+      "price": 350,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655766/hotels/hotel5_bipher.jpg",
+      "rating": "4.6"
+    },
+    {
+      "name": "Raffles Hotel",
+      "city": "Dubai, UAE",
+      "id": 67890,
+      "description": "Landmark luxury hotel",
+      "price": 400,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655767/hotels/hotel6_hiem9e.jpg",
+      "rating": "4.6"
+    },
+    {
+      "name": "Park Hyatt",
+      "city": "Sydney, Australia",
+      "id": 78901,
+      "description": "Premier luxury hotel with views of the Sydney Opera House",
+      "price": 550,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655767/hotels/hotel7_wmkun1.jpg",
+      "rating": "4.8"
+    },
+    {
+      "name": "Sofitel Legend Metropole",
+      "city": "Hanoi, Vietnam",
+      "id": 89102,
+      "description": "Classic French colonial hotel",
+      "price": 300,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655768/hotels/hotel8_yksxna.jpg",
+      "rating": "4.7"
+    },
+    {
+      "name": "The Oberoi Rajvilas",
+      "city": "Jaipur, India",
+      "id": 91023,
+      "description": "Splendid royal resort-styled hotel with modern facilities",
+      "price": 250,
+      "image": "https://res.cloudinary.com/desc59eui/image/upload/v1695655756/hotels/hotel9_h52bsu.jpg",
+      "rating": "4.5"
+    }
+  ]
+}
